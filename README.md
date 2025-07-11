@@ -26,7 +26,6 @@
 ---
 
 ## 📸 Preview
-
-> (Optional) Add a screenshot or GIF here to show what MirAi looks like:
+<img width="874" height="655" alt="image" src="https://github.com/user-attachments/assets/0be56bc3-dd11-466a-85bc-976f57466817" />
 
 ```bash
