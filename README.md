@@ -28,4 +28,9 @@
 ## 📸 Preview
 <img width="874" height="655" alt="image" src="https://github.com/user-attachments/assets/0be56bc3-dd11-466a-85bc-976f57466817" />
 
+<h2>🚀 Getting Started</h2>
+<h3>1. Clone the Repository</h3>
+
 ```bash
+git clone https://github.com/yourusername/MirAi.git
+cd MirAi
