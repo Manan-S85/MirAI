@@ -11,13 +11,13 @@ from openai import OpenAI
 import keyboard  # keyboard lib for polling hotkey
 
 # ------------------------------------------------------------------ CONFIG
-OPENROUTER_API_KEY = "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"
-SERPER_API_KEY     = "a95185ae731e522b65311f165d03cbf03af92ef3"
+OPENROUTER_API_KEY = "YOUR-OPENROUTER_API_KEY"
+SERPER_API_KEY     = "YOUR-SERPER_API_KEY"
 SERPER_NUM_RESULTS = 3
-DEFAULT_MODEL      = "mistralai/mistral-7b-instruct:free"
+DEFAULT_MODEL      = "mistralai/mistral-7b-instruct:free" #you can always change this model from https://openrouter.ai/models?max_price=0
 
 # Weather config (wttr.in requires no key)
-WEATHER_CITY = "Bhopal"
+WEATHER_CITY = "Bhopal" #you can edit your place over here
 # -------------------------------------------------------------------------
 
 class StylishAIAssistant(QWidget):
