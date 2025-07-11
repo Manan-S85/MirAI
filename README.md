@@ -1,0 +1,2 @@
+# MirAI
+Personal AI Assistant
